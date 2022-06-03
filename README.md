@@ -2,9 +2,6 @@
 i do
 <<<<<<< Updated upstream
 I hope I can change it
-=======
-<<<<<<< HEAD
-I hope I can change it
-=======
->>>>>>> main
->>>>>>> Stashed changes
+这是我第二次尝试。
+我希望能够成功
+
