@@ -1,7 +1,11 @@
 # whocares
-i do
-<<<<<<< Updated upstream
-I hope I can change it
-这是我第二次尝试。
-我希望能够成功
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> I do </title>
+<body>
+    <h1>first title
+    <p>测试html格式</p>
+</body>
+</html>
